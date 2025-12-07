@@ -4,6 +4,7 @@
 **Submission Method:** Dropbox  
 
 **Submitted by:** Ayush Navadiya  
+**Group Member:** Amir Shaikh
 **Student ID:** 10321544  
 **Section:** L02  
 **Date submitted:** 7-10-2025  
